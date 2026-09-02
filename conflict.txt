@@ -1,1 +1,2 @@
-This is the original line.
+This line was changed by Feature B.
+
