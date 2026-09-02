@@ -1,1 +1,2 @@
-Welcome to my project
+This project is maintained by Team A.
+
